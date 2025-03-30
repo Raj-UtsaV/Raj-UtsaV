@@ -9,8 +9,24 @@
 Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passionate B.Tech student with a keen interest in Data Analytics,<br>Machine Learning, Programming, and Technology. I love exploring new tools, <br>solving problems, and building exciting projects. 🚀<br><br>🔹 About Me:<br>🎓 B.Tech Student (2nd Year)<br>📊 Exploring Data Science & Machine Learning<br>💡 Love solving problems & building new things<br>📚 Always learning & growing!<br>🌍 Open to collaboration on exciting projects
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utsav.raj._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/utsav-raj-6657b12bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsavraj911@outlook.com) 
+<h3 align="left">🌐 Socials :</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="linkedin.com/in/utsav-raj-6657b12bb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="utsavraj911@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/utsav.raj._" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 
 # 💻 Tech Stack:
 <div align="left">
