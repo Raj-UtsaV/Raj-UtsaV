@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passionate B.Tech student with a keen interest in Data Analytics,<br>Machine Learning, Programming, and Technology. I love exploring new tools, <br>solving problems, and building exciting projects. 🚀<br><br>🔹 About Me:<br>🎓 B.Tech Student <br>📊 Exploring Data Science & Machine Learning<br>💡 Love solving problems & building new things<br>📚 Always learning & growing!<br>🌍 Open to collaboration on exciting projects
+Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passionate B.Tech student with a kee interest in Data Analytics,<br>Machine Learning, Programming, and Technology. I love exploring new tools, <br>solving problems, and building exciting projects. 🚀<br><br>🔹 About Me:<br>🎓 B.Tech Student <br>📊 Exploring Data Science & Machine Learning<br>💡 Love solving problems & building new things<br>📚 Always learning & growing!<br>🌍 Open to collaboration on exciting projects
 
 
 <h3 align="left">🌐 Socials :</h3>
