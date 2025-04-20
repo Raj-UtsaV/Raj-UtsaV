@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passionate B.Tech student with a kee interest in Data Analytics,<br>Machine Learning, Programming, and Technology. I love exploring new tools, <br>solving problems, and building exciting projects. 🚀<br><br>🔹 About Me:<br>🎓 B.Tech Student <br>📊 Exploring Data Science & Machine Learning<br>💡 Love solving problems & building new things<br>📚 Always learning & growing!<br>🌍 Open to collaboration on exciting projects
+Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passionate B.Tech student with a keen interest in Data Analytics,<br>Machine Learning, Programming, and Technology. I love exploring new tools, <br>solving problems, and building exciting projects. 🚀<br><br>🔹 About Me:<br>🎓 B.Tech Student <br>📊 Exploring Data Science & Machine Learning<br>💡 Love solving problems & building new things<br>📚 Always learning & growing!<br>🌍 Open to collaboration on exciting projects
 
 
 <h3 align="left">🌐 Socials :</h3>
@@ -28,34 +28,65 @@ Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passion
 </div>
 
 
+
 # 💻 Tech Stack:
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  
+  <!-- Scikit-learn (Custom fallback as there's no official Devicon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  <img width="12" />
+  
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
 </div>
+
 
 ###
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raj-UtsaV&theme=dark&hide_border=false" width="450px" height="250px" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-UtsaV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="340px" height="245px" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Raj-UtsaV&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Raj-UtsaV&theme=default&hide_border=false">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Raj-UtsaV&theme=default&hide_border=false" width="450px" height="250px" style="margin-right: 20px;" />
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-UtsaV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-UtsaV&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-UtsaV&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="340px" height="245px" />
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj-UtsaV/Raj-UtsaV/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj-UtsaV/Raj-UtsaV/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raj-UtsaV/Raj-UtsaV/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 <h3 align="left"> 🧑‍💻 Visitors :</h3>
@@ -73,5 +104,3 @@ Hi there, I'm Utsav Raj! 👋<br><br>Welcome to my GitHub profile! I'm a passion
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raj-UtsaV&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
