@@ -166,7 +166,7 @@ I enjoy working at the intersection of **data and technology**, transforming ide
     <img 
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
       alt="Dev Quote"
-      style="width:100%; max-width:800px;"
+      style="width:100%; max-width:700px;"
     />
   </picture>
 </p>
