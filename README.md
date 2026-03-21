@@ -149,7 +149,25 @@ I enjoy working at the intersection of **data and technology**, transforming ide
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Raj-UtsaV&icon=4&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    > 
+    <!-- Light Mode -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    >
+    <!-- Fallback -->
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
+      alt="Dev Quote"
+      style="width:100%; max-width:800px;"
+    />
+  </picture>
+</p>
+
